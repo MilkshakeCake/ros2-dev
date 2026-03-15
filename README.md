@@ -16,5 +16,5 @@ A repository dedicated to solo practice of ROS 2 Foxy. This workspace explores t
 
 ### Prerequisites
 Ensure `colcon` and `rosdep` are installed:
-```bash
+```
 sudo apt install python3-colcon-common-extensions
